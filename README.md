@@ -3,6 +3,7 @@
 
 This project trains a machine learning model to predict **math score** from student information.  
 It also provides a **Flask API** endpoint to get predictions.
+![Project Screenshot](image.png)
 
 ---
 
