@@ -49,7 +49,7 @@ notebooks/StudentsPerformance.csv
 ```
 
 
-## 6) Run the Flask app
+## 5) Run the Flask app
 
 ```bash
 python app.py
