@@ -22,6 +22,3 @@ logging.basicConfig(
 
 logger = logging.getLogger("ml_project")
 
-if __name__ == "__main__":
-    logger.info("Logging has started")
-    logger.info(f"Log file: {LOG_FILE_PATH}")
